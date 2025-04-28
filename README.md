@@ -3,7 +3,7 @@
         <img src="./docs/images/icon.png" width="250" height="250"/>
     </a>
 </div>
-<h1 align="center">Dark Castle Wallpaper</h1>
+<h1 align="center">Dark Cyber Wallpaper</h1>
 <p align="center">
   A vibrantly elegant dark theme available for multiple platforms. Inspired by the cyberpunk culture and mystery of aliens, this theme combines rich, deep colors with a clean and modern design.
 </p>
